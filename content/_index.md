@@ -39,7 +39,7 @@ work:
 projects:
   - company: "Advanced Vision Analytics Pte Ltd, Singapore"
     title: "Frontend and Backend for SolarSens"
-    screenshot: "/screenshot/solarsens dashboard.jpg"
+    screenshot: "/screenshot/solarsens-dashboard.jpg"
     period: "May. 2022 - Jan. 2023"
     tech: "Proficient in Python, Angular, Cypress, Redis, SQL, Thingsboard, Docker, Digital Ocean, Nginx FastAPI, and Flask."
     accomplishments:
