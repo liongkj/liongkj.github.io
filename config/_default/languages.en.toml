@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Liong Khai Jiet"
+copyright = "&copy; 2025 Khai Jiet Liong"
+
+[params]
+  dateFormat = "2 January 2006"
+  description = "AI/Data Engineer | Machine Learning | Natural Language Processing"
+
+[params.author]
+  name = "Khai Jiet Liong"
+  image = "photo.jpg"
+  headline = "AI/Data Engineer"
+  bio = "AI/Data Engineer at AVA Asia with a Master's degree from Shanghai Jiao Tong University. Specialized in Natural Language Processing, Adversarial Attacks, and building scalable ML systems."
+  links = [
+    { email = "mailto:liongkj@sjtu.edu.cn" },
+    { github = "https://github.com/liongkj" },
+    { twitter = "https://twitter.com/fantasticbabii" },
+    { link = { identifier = "cv", title = "CV", url = "/data/KJ-CV.pdf" } },
+  ]

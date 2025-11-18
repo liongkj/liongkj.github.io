@@ -1,0 +1,24 @@
+[[main]]
+  name = "About"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Experience"
+  pageRef = "experience"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 40
+
+[[main]]
+  name = "Education"
+  pageRef = "education"
+  weight = 50
