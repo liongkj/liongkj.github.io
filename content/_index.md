@@ -46,7 +46,7 @@ projects:
       - "Streamlined the deployment process, achieving deployment time of under 3 minutes and integrating frontend testing tools to minimize production errors."
       - "Implemented query caching using Redis to alleviate the server load on Thingsboard, optimizing website performance for Vietnamese clientele. Resulted in faster loading speed and reduced network latency."
       - "Applied query optimization techniques, such as query statement rewriting and efficient query syntax, to enhance the execution plans and significantly improve query response time."
-      - "Participate in the development of a web-based self-provisioning wizard for edge IoT devices [Screenshot](/screenshot/config-wizard.jpg), collaborating with a team to create a configuration server. Simplified the deployment process, enabling on-site technicians to handle the setup, while allowing remote work for company engineers during large-scale deployments (over 500 edge devices)."
+      - "Participated in the development of a web-based self-provisioning wizard for edge IoT devices [Screenshot](/screenshot/config-wizard.jpg), collaborating with a team to create a configuration server. Simplified the deployment process, enabling on-site technicians to handle the setup, while allowing remote work for company engineers during large-scale deployments (over 500 edge devices)."
   - company: "Advanced Vision Analytics Pte Ltd, Singapore"
     title: "Machine Learning Module"
     screenshot: "/screenshot/solarsens-ml.jpg"
