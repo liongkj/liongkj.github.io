@@ -49,11 +49,14 @@ This site uses the [Congo theme](https://jpanther.github.io/congo/) - a powerful
 
 2. **Cloudflare Pages Configuration:**
    - **Framework preset**: Hugo
-   - **Build command**: `hugo --minify`
+   - **Build command**: `chmod +x build.sh && ./build.sh` (or `git submodule update --init --recursive && hugo --minify`)
    - **Build output directory**: `public`
+   - **Root directory**: `/` (leave empty/default)
    - **Environment variables**:
      - Variable name: `HUGO_VERSION`
      - Value: `0.139.3` (or latest)
+
+   > **Important**: The build command must initialize git submodules before running Hugo, as the Congo theme is installed as a submodule.
 
 3. **Automatic Deployment**
    - Cloudflare Pages will automatically build and deploy your site
