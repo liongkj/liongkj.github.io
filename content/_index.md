@@ -20,9 +20,7 @@ I am a Malaysian Chinese with a strong passion for technology. In my free time, 
 
 ---
 
-{{< button href="/experience" target="_self" >}}
-View My Experience
-{{< /button >}}
-{{< button href="/data/KJ-CV.pdf" target="_blank" >}}
-Download CV
-{{< /button >}}
+<div style="margin-top: 2rem;">
+  <a href="/experience" style="display: inline-block; padding: 0.5rem 1rem; margin: 0.5rem 0.5rem 0.5rem 0; background-color: #3b82f6; color: white; text-decoration: none; border-radius: 0.375rem; font-weight: 500;">View My Experience</a>
+  <a href="/data/KJ-CV.pdf" target="_blank" style="display: inline-block; padding: 0.5rem 1rem; margin: 0.5rem 0; background-color: #10b981; color: white; text-decoration: none; border-radius: 0.375rem; font-weight: 500;">Download CV</a>
+</div>
